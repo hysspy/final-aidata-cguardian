@@ -4,6 +4,12 @@ Sebuah aplikasi web cerdas berbasis AI Agent yang berfungsi sebagai asisten untu
 
 ---
 
+# 🌐 Streamlit : Web App is deployed and accessible worldwide
+
+https://final-aidata-cguardian.streamlit.app/
+
+---
+
 ## ✨ Fitur Utama
 
 -   **Analisis Multi-Konteks**: Mampu menganalisis berbagai jenis file teknis:
@@ -54,4 +60,5 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 
 ```bash
 git clone [https://github.com/your-username/codeguardian.git](https://github.com/your-username/codeguardian.git)
+
 cd codeguardian
